@@ -1,0 +1,27 @@
+mule_convert;Convert;fre;ger;;spa;;;;;;;;;x
+mule_convert_desc;Use mentalic powers to convert §Y[Root.GetFirstName]§! onto my side;fre;ger;;spa;;;;;;;;;x
+mule_convert_named;Use mentalic powers to convert §Y[Root.GetFirstName]§! onto my side;fre;ger;;spa;;;;;;;;;x
+mule_convert_long_desc;Using my mental abilities, I can force this person to like me.;fre;ger;;spa;;;;;;;;;x
+mule_convert_0;Submit!;fre;ger;;spa;;;;;;;;;x
+
+mule_ally;Force Alliance;fre;ger;;spa;;;;;;;;;x
+mule_ally_desc;Use mentalic powers to force an alliance between me and §Y[Root.GetFirstName]§!;fre;ger;;spa;;;;;;;;;x
+mule_ally_named;Use mentalic powers to force an alliance between me and §Y[Root.GetFirstName]§!;fre;ger;;spa;;;;;;;;;x
+mule_ally_long_desc;Using my mental abilities, I can force this person to support me loyally.;fre;ger;;spa;;;;;;;;;x
+mule_ally_0;Submit!;fre;ger;;spa;;;;;;;;;x
+
+mule_turn_bad;Turn against Liege;fre;ger;;spa;;;;;;;;;x
+mule_turn_bad_desc;Use mentalic powers to make §Y[Root.GetFirstName]§! despise §Y[Root.GetHersHis]§! liege;fre;ger;;spa;;;;;;;;;x
+mule_turn_bad_named;Use mentalic powers to make §Y[Root.GetFirstName]§! despise §Y[Root.GetHersHis]§! liege;fre;ger;;spa;;;;;;;;;x
+mule_turn_bad_long_desc;Using my mental abilities, I can make this person hate §Y[Root.GetHersHis]§! liege;fre;ger;;spa;;;;;;;;;x
+mule_turn_bad_0;Submit!;fre;ger;;spa;;;;;;;;;x
+
+the_mule;The Mule;fre;ger;;spa;;;;;;;;;x
+the_mule_desc;This character calls himself the Mule-not because of his strength-obviously;fre;ger;;spa;;;;;;;;;x
+opinion_mule_converted;Emotional Control;fre;ger;;spa;;;;;;;;;x
+opinion_mule_enemy;The Mule's influence;fre;ger;;spa;;;;;;;;;x
+nick_the_mule;The Mule;fre;ger;;spa;;;;;;;;;x
+gaian;Gaian;fre;ger;;spa;;;;;;;;;x
+mulish;Mule;fre;ger;;spa;;;;;;;;;x
+king_mulish;First Citizen;fre;ger;;spa;;;;;;;;;x
+emperor_mulish;First Citizen;fre;ger;;spa;;;;;;;;;x

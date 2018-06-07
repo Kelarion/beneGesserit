@@ -1,0 +1,64 @@
+character_event = {
+	id = 602000
+	desc = kwisatz_me_desc
+	picture = GFX_evt_council
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = kwisatz_me_option
+		random_list = {
+			60 = {
+				death = { death_reason = death_accident }
+			}
+			
+			30 = {
+				add_character_modifier = {
+					name = "kwisatz_haderach"
+					duration = -1
+				}
+			}
+			
+			10 = {
+				add_trait = lunatic
+			}
+		}
+	}
+}
+
+character_event = {
+	id = 602001
+	desc = kwisatz_him_desc
+	picture = GFX_evt_child_play
+	
+	is_triggered_only = yes
+		
+	option = {
+		name = kwisatz_him_option
+		FROM = {
+			random_list = {
+				60 = {
+					death = { death_reason = death_accident }
+				}
+			
+				30 = {
+					add_character_modifier = {
+						name = "kwisatz_haderach"
+						duration = -1
+					}
+					prestige = 500
+					mother = {
+						prestige = 1000
+					}
+				}
+				
+				10 = {
+					add_trait = lunatic
+					hidden_tooltip = {
+						set_character_flag = not_the_kh
+					}
+				}
+			}
+		}
+	}
+}
