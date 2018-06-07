@@ -1,0 +1,25 @@
+emperor_castillan;Padishah;Padishah;Padishah;;Padishah;;;;;;;;;x
+emperor_female_castillan;Empress;Empress;Empress;;Empress;;;;;;;;;x
+king_basque;King;King;King;;King;;;;;;;;;x
+king_female_basque;Reverend Mother;French;German;;Spanish;;;;;;;;;x
+desert_power;Appreciate desert power;french;ger;;span;;;;;;;;;x
+desert_power_desc;Our supremacy in Iberia depended on land and political power. Here we must develop something I choose to call §Ydesert§! power.;fre;ger;;spa;;;;;;;;;x
+job_spymaster_castillan;Mentat;fre;ger;;spa;;;;;;;;;x
+job_spymaster_basque;Mentat;fre;ger;;spa;;;;;;;;;x
+k_dune;The Imperium;fre;ger;;spa;;;;;;;;;x
+empire_of_castillan; ;fre;ger;;spa;;;;;;;;;x
+proclaim_kh;Proclaim Kwisatz Haderach;fre;ger;;spa;;;;;;;;;x
+proclaim_kh_desc;Proclaim §Y[Root.GetFirstName]§! to be the Kwisatz Haderach;fre;ger;;spa;;;;;;;;;x
+proclaim_kh_named;Proclaim §Y[Root.GetFirstName]§! Kwisatz Haderach;fre;ger;;spa;;;;;;;;;x
+proclaim_kh_long_desc;Proclaim this character as the Kwisatz Haderach, the ultimate goal of the Bene Gesserit breeding programme.;fre;ger;;spa;;;;;;;;;x
+proclaim_kh_0;Could §Y[Root.GetFirstName]§! be the one we've been waiting for?.;fre;ger;;spa;;;;;;;;;x
+kwisatz_haderach;Kwisatz Haderach;fre;ger;;spa;;;;;;;;;x
+kwisatz_haderach_desc;This character is the legendary Kwisatz Haderach.;fre;ger;;spa;;;;;;;;;x
+become_spice;Try a new spice;fre;ger;;spa;;;;;;;;;x
+become_spice_desc;As the realm expands, new delicacies are constantly arriving at our court. Why not try some of this §Yspice§!?;fre;ger;;spa;;;;;;;;;x
+kwisatz_me_desc;A strange woman dragged me into a room and forced me to do a painful test;fre;ger;;spa;;;;;;;;;x
+kwisatz_me_option;The pain is unbearable!;fre;ger;;spa;;;;;;;;;x
+kwisatz_him_desc;Could this boy truly be the one we have been waiting for? We shall need to test his will with the Gom Jabbar to be sure...;fre;ger;;spa;;;;;;;;;x
+kwisatz_him_option;Let us say I suggest he is human;fre;ger;;spa;;;;;;;;;x
+unbugger_succ;Unbugger Succession;fre;ger;;spa;;;;;;;;;x
+unbugger_succ_desc;Now that we have a new succession law, we should re-evaluate our inheritance;fre;ger;;spa;;;;;;;;;x

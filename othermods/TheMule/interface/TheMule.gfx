@@ -1,0 +1,9 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_the_mule"
+		texturefile = "gfx/traits/the_mule.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}
