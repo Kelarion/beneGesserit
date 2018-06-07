@@ -1,0 +1,256 @@
+﻿### Dune Name List
+dune = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			
+		}
+		
+		corvette = {
+		Thopter
+		}
+		
+		constructor = {
+		Harvester	
+		}
+		
+		colonizer = {
+		Heighliner
+		}
+		
+		science = {
+		Mentat Unity	
+		}
+		
+		destroyer = {
+			
+		}
+		
+		cruiser = {
+			
+		}
+		
+		battleship = {
+		Leto Muad´dib Mahdi Usul
+		}
+		
+		orbital_station = { }
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			random_names = {
+				"Far Reach" Watchtower Sphered Influential Assertion SPACERAD "Watchful Eye" Sentinel Demarcator "Frontier Finalizer" "Ever Watchful" Divider Bastion "Home Turf" Wide
+			}
+			sequential_name = "%O% Frontier Outpost"
+		}
+		
+		transport = {
+			
+		}
+
+		military_station_small = { 
+			
+		}
+		
+		#military_station_small = { 
+		#	sequential_names = { 
+		#		"Outpost 1" "Outpost 2" "Outpost 3" "Outpost 4" "Outpost 5" "Outpost 6" "Outpost 7" "Outpost 8" "Outpost 9" "Outpost 10" "Outpost 11" "Outpost 12"
+		#		"Outpost 13" "Outpost 14" "Outpost 15" "Outpost 16" "Outpost 17" "Outpost 18" "Outpost 19" "Outpost 20" "Outpost 21" "Outpost 22" "Outpost 23"
+		#		"Outpost 24" "Outpost 25" "Outpost 26" "Outpost 27" "Outpost 28" "Outpost 29" "Outpost 30" "Outpost 31" "Outpost 32" "Outpost 33" "Outpost 34"
+		#		"Outpost 35" "Outpost 36" "Outpost 37" "Outpost 38" "Outpost 39" "Outpost 40"
+		#	}
+		#}
+		
+		military_station_medium = { 
+			 
+		}
+		
+		#military_station_medium = {
+		#	random_names = {
+		#		"Citadel Station" "Albacore Station" "Gateway Station" "Vincent Station" "Babylon Station" "Caernavon Station" "Acre Station" "Pembroke Station" 
+		#		"Acheron Station" "Spithead Station" "Halifax Station" "Victoria Station" "Chatham Station" "Anchorage Station" "Scapa Flow Station" "Hampton Roads Station"
+		#		"Brooklyn Station" "Norfolk Station" "Newport Station" "Guam Station" "Pensacola Station" "Vesuvius Station" "McKinley Station" "Everest Station"
+		#		"Kilimanjaro Station" "Aconcagua Station" "Elbrus Station" "St. Helens Station" "Fuji Station" "Olympus Station" "Sinai Station" "Ambrose Station"
+		#		"Bermuda Station" "Farpoint Station" "Blue Star Station" "Olympus Mons Station" "Tharsis Station" "Syrtis Station" "Blackham Station"
+		#	}
+		#		
+		#}
+		
+		military_station_large = { 
+			
+		}
+		
+		#military_station_large = { 
+		#	random_names = {
+		#		"Fletcher Naval Base" "Perry Naval Base" "Butakov Naval Base" "Morris Naval Base" "Moorsom Naval Base" "Hart Naval Base" "Hargood Naval Base"
+		#		"Spruance Naval Base" "Tanaka Naval Base" "Halsey Naval Base" "Turner Naval Base" "Doria Naval Base" "Tirpitz Naval Base" "Cunningham Naval Base"
+		#		"Jellicoe Naval Base" "Hipper Naval Base" "Beatty Naval Base" "Potemkin Naval Base" "Durham Naval Base" "Codrington Naval Base" "Milne Naval Base"
+		#		"Laforey Naval Base" "Tyler Naval Base" "Hawke Naval Base" "Yonai Naval Base" "Pound Naval Base" "King Naval Base" "Crutchley Naval Base"
+		#		"Mountbatten Naval Base" "Kountouriotis Naval Base" "Kuznetsov Naval Base" "Essen Naval Base" "Kornilov Naval Base" "Suffren Naval Base"
+		#		"Treville Naval Base" "Villeneuve Naval Base" "Grasse Naval Base" "Byng Naval Base" "Lezo Naval Base"
+		#	}
+		#}
+	}
+
+	fleet_names = {
+		random_names = {
+			
+		}
+		sequential_name = "%O% Fleet"
+	}
+	
+	army_names = {
+	
+		defense_army = {
+			sequential_name = "%O% House Guard"
+		}
+
+		assault_army = {
+			sequential_name = "%O% Expeditionary Force"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Fedaykin"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Face Dancers"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Sardaukar"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Synthetic Rangers"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Weirding Way commando"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Tleilaxu"
+		}
+		
+		gene_warrior_army = {
+			random_names = {
+				"SARC-A 'Gladiators'" "SARC-B 'Widowmakers'" "SARC-C 'Immortals'" "SARC-D 'Berserkers'" "SARC-E 'Assassins'"
+				"SARC-F 'Reapers'" "SARC-G 'Nighthawks'" "SARC-H 'Desperados'" "SARC-I 'Grey Knights'" "SARC-J 'Roughnecks'" 
+			}
+			sequential_name = "%O% Bio-Engineered Squadron"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+			"III Delta Kaising" "IV Anbus" "Al Dhanab" "Bela Tegeuse" Chusuk Corrin Ecaz Gamont Gansireed Gangishree Ginaz Grumman
+			Hagal Harmonthep Ipyr Ix Junction Kolhar Lampadas Lankiveil Lernaeus Muritan Naraj Palma Parmentier Poritrin
+			Romo Rossak Sicun Zanovar
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			Arrakis	
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			"Salusa Secundus"
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			Richese	
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			"Giedi Prime"
+			}
+		}
+		
+		pc_gaia = {
+			names = {
+			Tleilax Tupil 	
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			Caladan	
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			Kaitain "Wallach IX"
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			Buzzell	
+			}
+		}
+	}
+
+
+	### CHARACTERS
+
+	character_names = {
+
+		names1 = {
+			weight = 40
+			first_names_male = {
+				Abulurd Ammon Anton Armand Aurelius Bain Beric Bijaz Bindikk Cammur Chobyn Daniel Dalak D’murr Duncan Duro Edric 
+				Elrood Ereboam Esmar Essas Farad’n Farok Ferdinand Feyd-Rautha Frederick Gaxhar Geoff Glossu Gurney Hasimir Hayth
+				Hidar Fen Ilban Ishmael Jamis Josef Korba Khrone Ledden Liet Malky Memnon Miles Moneo Olar Otheym Otho Paolo 
+				Paul Piter Porce Prad Rekur Rincon Rivvy Ryx Sa’ad Scytale Shaddam Shamir Stabban Terkillian Thallo Thufir Tio Tuk 
+				Tylwyth Vladimir Vorian Wariff Whitmore Wose Wykk Xidd Yresk Zoal
+			}
+			first_names_female = {
+				Anna Alexandra Alia Bruda Burah Catharine Catherine Catrine Catriona Cecily Chani Clere Darwi Delia Dona Elise Elpek Emmi 
+				Faroula Francesca Fye Gaius Ghanima Gunseli Gyra Haloa Harah Helen Helena Hwi Ida Ilesa Inia Irulan Jessica Jhoana Jzika 
+				Katharine Klae Kzae Laura Logno Lore Margot Marty Mesa Mofra Murbella Nadya Nel Norma Olia Ophelia Oxana Phia Priscilla 
+				Psia Qara Qeri Quele Raquella Rebecca Roma Sanya Sara Sheeana Siona Tomasina Triss Twii Una Ursula Vela Verpa Wensicia 
+				Wyka Xina Xoe Yara Yeliz Zelde Zena
+			}
+			second_names = {
+				Abefor Ajidica Alman Amminadab Andersson Atani Atreides at-Tam Bagrationi Balanescu Barlevin Bendau Beskid Bludd Bromeli 
+				Burgerich Butler Calimar Cenva Cephalus Chelly Chinognia Chlemnik Chulian Clanriearde Corrino Costino De Vries Daryai 
+				Delambre Demavend Destrym Dinari Dupleix Ecaz Edomdred Elioz Emar Est Estilon Ezharian Fazeel Fenring Fidbolgs Forbino 
+				Genissai Ginaz Guifford Hajns Halleck Hannem Harkonnen Hawat Hemming Hirado Holtzman Hybia Iasi Ichihara Idaho Igal 
+				Isfahan Isonzo Ispartha Istaivan Jerodme Jongleur Jungius Keedair Kemic Khumali Kyzyl Lassoki Latzko Lexander Lidoping 
+				Lompok Lonsle Ludvonsa Lynwyck Malmusetz Masjed McNaught Medvedev Melui Metulli Menemtahe Meyerwal Miche Molay Moritani 
+				Morotai Mustami Mwami Narvi Nebiro Ngara Nicolpri Niembach Noabar Noree Nunepi Odrade Orlaq Orpheiion Orzaba Ordos Ossian 
+				Paligo Parakrama-hu Pastran Paymon Penchi Phyfe Pibeseth Pilru Pinang Plana Polotsvi Pook Qaii Rabban Raicnur Ramallo 
+				Reginaud Rejani Rhibera Rhylme Richese Ruitt Rund Samarama Shahrukh Shi-Lang Sikcunri Sor Spokan Sulaimani Surukarta 
+				Tantor Teg Thorgod Thorvald Tilopa’it Tleilax Togramah Tombe Tooy Ttoenne Tuek Van Venport Vernius Vico Vidal Villish 
+				Viol Waff Wallach Wikkheiset Wose Xingus Yasu Yuzovka Zalmunna
+			}
+			regnal_first_names_male = {
+				Leto Paul "Leto II" "Old Duke" Atreus Agamemnon Vorian Andros Clar Oren Miklos Kean 
+				Paulus Vladimir Abulurd Shadam
+			}
+			regnal_first_names_female = {
+				Jessica Ghanima Alia "Leronica Tergiet" "Karida Julan" Helena Kailea Chani
+			}
+			regnal_second_names = {
+				Atreides Richese Vernius Corrino Anirul Harkonnen
+			}
+		}
+		
+		
+	}
+}

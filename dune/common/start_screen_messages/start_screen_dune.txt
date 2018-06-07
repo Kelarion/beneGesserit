@@ -1,0 +1,59 @@
+# Dune
+part = {
+	location = 0
+	localization = "START_SCREEN_dune"
+	
+	trigger = {
+		has_country_flag = atreides
+	}		
+}
+
+# Dune
+part = {
+	location = 0
+	localization = "START_SCREEN_dune"
+	
+	trigger = {
+		has_country_flag = harkonnen
+	}		
+}
+
+# Dune
+part = {
+	location = 0
+	localization = "START_SCREEN_dune"
+	
+	trigger = {
+		has_country_flag = corrino
+	}		
+}
+
+# Dune
+part = {
+	location = 0
+	localization = "START_SCREEN_dune"
+	
+	trigger = {
+		has_country_flag = fremen
+	}		
+}
+
+# Dune
+part = {
+	location = 0
+	localization = "START_SCREEN_dune"
+	
+	trigger = {
+		has_country_flag = benegesserit
+	}		
+}
+
+# Dune
+part = {
+	location = 0
+	localization = "START_SCREEN_dune"
+	
+	trigger = {
+		has_country_flag = guild
+	}		
+}
