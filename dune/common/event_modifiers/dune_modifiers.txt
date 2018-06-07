@@ -1,0 +1,13 @@
+kwisatz_haderach = {
+	icon = 1
+	health = 1
+	intrigue = 10
+	learning = 8
+	land_morale = 20
+	monthly_character_prestige = 5
+	hidden_tooltip = {
+		same_religion_opinion = 20
+		short_reign_length = 0
+		infidel_opinion = -20
+	}
+}
